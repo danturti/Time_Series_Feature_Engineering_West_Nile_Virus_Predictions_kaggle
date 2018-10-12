@@ -1,8 +1,11 @@
 # West Nile Virus (WNV) Executive Summary:
 
 Guiding Questions:
+
 1)Determine where and under what conditions is WNV most prevalent?
+
 2)What is the most cost-effective strategy in preventing WNV?
+
 3)How can we positively identify WNV carrying mosquitoes?
 
 EDA:
