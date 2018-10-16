@@ -1,4 +1,4 @@
-#### Run above in https://nbviewer.jupyter.org/ - for rendering jupyter notebook(.ipynb) if it fails to run
+###### Run above in https://nbviewer.jupyter.org/github/danturti/Time_Series_Feature_Engineering_West_Nile_Virus_Predictions_kaggle/tree/master/ - for rendering jupyter notebook(.ipynb) if it fails to render
 
 # West Nile Virus (WNV) Executive Summary:
 
